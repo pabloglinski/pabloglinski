@@ -3,7 +3,7 @@
 - 💞️ Tenho interesse em novas linguagens de programação, criar e desenvolver projetos com meu professor de disciplina Pensamento Computacional e colegas.
 - 📫 Atualmente estou trabalhando em criar e desenvolver jogos no SCRATCH e pretendo criar e desenvolver uma página html na web.
 
-<!---
-pabloglinski/pabloglinski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![SCRATCH](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
